@@ -1,3 +1,0 @@
-# Python 3.9+
-# 数据采集：requests（Open-Meteo archive API）
-requests>=2.31
